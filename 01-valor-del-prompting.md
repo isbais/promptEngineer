@@ -3,9 +3,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Topic-Prompt%20Engineering-blue?style=for-the-badge)
 ![AI](https://img.shields.io/badge/Field-Artificial%20Intelligence-green?style=for-the-badge)
 
-<p align="center">
-  <img src="./images/prompt01.png" alt="Prompt Engineering Illustration" width="600">
-</p>
+
 
 ## 📖 Introducción
 
@@ -55,7 +53,9 @@ Son modelos de inteligencia artificial diseñados para procesar y comprender el 
 ### <span style="color: #4ECDC4;">✨ IA Generativa</span>
 Se refiere a los sistemas de IA capaces de generar contenido original y nuevo. Estos sistemas utilizan modelos de aprendizaje automático para crear nuevos datos o producir resultados que no han sido vistos anteriormente en su conjunto de entrenamiento.
 
-/Users/isacsbais/Library/CloudStorage/GoogleDrive-natham@bais.cl/Mi unidad/AI PROMPT ENGINEER/images/prompt01.png
+<p align="center">
+  <img src="./images/prompt01.png" alt="Prompt Engineering Illustration" width="600">
+</p>
 
 ---
 
@@ -70,6 +70,19 @@ Se refiere a los sistemas de IA capaces de generar contenido original y nuevo. E
 | **Interactividad** | Limitada a respuestas predefinidas | Conversacional y adaptativa |
 | **Datos de Entrada** | Estructurados y etiquetados | Texto libre y contextual |
 | **Flexibilidad** | Rígida, tareas específicas | Adaptable a múltiples dominios |
+
+
+<span style="color: #4ECDC4;">✨ AI Generativa</span> 
+<p align="center">
+  <img src="./images/iagenerativa.png" alt="Prompt Engineering Illustration" width="600">
+</p>
+
+<span style="color: #4ECDC4;">✨ AI Tradicional</span> 
+<p align="center">
+  <img src="./images/iatradicional.png" alt="Prompt Engineering Illustration" width="600">
+</p>
+
+
 
 ---
 
@@ -122,3 +135,19 @@ El prompt engineering continuará evolucionando como una disciplina fundamental 
 *📅 Última actualización: 2024*  
 *👤 Autor: AI Prompt Engineering Guide*  
 *📧 Contacto: natham@bais.cl*
+
+---
+
+## 📚 Recursos Adicionales
+
+### 🔗 Enlaces Útiles
+- [OpenAI Documentation](https://platform.openai.com/docs)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Best Practices Repository](https://github.com/promptengineer)
+
+### 📖 Lecturas Recomendadas
+- "The Art of Prompt Engineering" - Técnicas avanzadas
+- "AI Communication Patterns" - Patrones de comunicación efectiva
+- "Building Better AI Interactions" - Construcción de mejores interacciones
+
+dfsdf
