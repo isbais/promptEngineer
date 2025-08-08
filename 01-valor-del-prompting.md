@@ -3,6 +3,10 @@
 ![Prompt Engineering](https://img.shields.io/badge/Topic-Prompt%20Engineering-blue?style=for-the-badge)
 ![AI](https://img.shields.io/badge/Field-Artificial%20Intelligence-green?style=for-the-badge)
 
+<p align="center">
+  <img src="./images/prompt01.png" alt="Prompt Engineering Illustration" width="600">
+</p>
+
 ## 📖 Introducción
 
 Los modelos avanzados tienen una **vasta capacidad**, pero la forma en que se les pregunta o instruye puede afectar significativamente la calidad de sus respuestas. Un buen ingeniero de prompts puede obtener respuestas más precisas y útiles de estos modelos.
@@ -50,6 +54,8 @@ Son modelos de inteligencia artificial diseñados para procesar y comprender el 
 
 ### <span style="color: #4ECDC4;">✨ IA Generativa</span>
 Se refiere a los sistemas de IA capaces de generar contenido original y nuevo. Estos sistemas utilizan modelos de aprendizaje automático para crear nuevos datos o producir resultados que no han sido vistos anteriormente en su conjunto de entrenamiento.
+
+/Users/isacsbais/Library/CloudStorage/GoogleDrive-natham@bais.cl/Mi unidad/AI PROMPT ENGINEER/images/prompt01.png
 
 ---
 
