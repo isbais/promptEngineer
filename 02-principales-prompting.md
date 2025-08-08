@@ -3,9 +3,6 @@
 ![Prompting Techniques](https://img.shields.io/badge/Topic-Prompting%20Techniques-purple?style=for-the-badge)
 ![Best Practices](https://img.shields.io/badge/Guide-Best%20Practices-orange?style=for-the-badge)
 
-<p align="center">
-  <img src="./images/prompt01.png" alt="Prompting Overview" width="600">
-</p>
 
 ---
 
